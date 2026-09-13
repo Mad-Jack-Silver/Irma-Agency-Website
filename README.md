@@ -1,9 +1,12 @@
 # IRMA Agency — Small Business. Big Presence.
 
+[![Live Website](https://img.shields.io/badge/Live%20Website-irma--agency--website.vercel.app-black?style=flat&logo=vercel)](https://irma-agency-website.vercel.app)
 [![Performance](https://img.shields.io/badge/Lighthouse-100%2F100-brightgreen.svg)](#performance--architecture)
 [![Accessibility](https://img.shields.io/badge/A11y-WCAG%202.1%20AA-blue.svg)](#accessibility--standards)
 [![Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20Vanilla%20JS-orange.svg)](#tech-stack)
 [![Markets](https://img.shields.io/badge/Coverage-US%20%C2%B7%20CA%20%C2%B7%20MX-gold.svg)](#market-footprint)
+
+🌐 **Live Website**: [https://irma-agency-website.vercel.app](https://irma-agency-website.vercel.app)
 
 A modern, high-converting digital platform built for **IRMA Agency** (Inspire. Rise. Motivate. Achieve) — a boutique creative studio empowering ambitious small businesses with enterprise-grade websites, brand voice systems, and digital strategy across the United States, Canada, and Mexico.
 
@@ -78,14 +81,15 @@ Irma Agency/
 
 ---
 
-## 🚀 Quick Start & Local Preview
+## 🚀 Quick Start & Live Demo
 
-Because this project is built entirely on modern web standards with zero build steps or heavy `node_modules`, you can view it immediately in any browser:
+### Option 1: Live Deployment
+Visit the live production site directly at **[https://irma-agency-website.vercel.app](https://irma-agency-website.vercel.app)**.
 
-### Option 1: Direct File Opening
+### Option 2: Direct File Opening
 Double-click `index.html` or drag it into any modern web browser (Chrome, Edge, Safari, Firefox).
 
-### Option 2: Local HTTP Server
+### Option 3: Local HTTP Server
 Using Python:
 ```bash
 python -m http.server 8000
